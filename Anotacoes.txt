@@ -1,0 +1,17 @@
+
+Aula 1 - Criando projeto com react CLI {
+    - Uso de um gerenciador de pacotes para baixar um projeto pre feito como inicio: 
+    ex: npx create-react-app NOME_APP ||   yarn add create-react-app  
+    -Criação de rotas:
+    ex: npm i react-router-dom || yarn add react-router-dom
+    
+}
+Aulaa 2 - Styled-component { // Biblioteca que permite escrever códigos CSS dentro do JS.
+    - Instalando a bibliotaca ao projeto:
+     yarn add style-components || 
+    - Como criar ( sintaxe ) componentes com style-component ?
+    importa o o styled de 'styled-components' | import styled from 'styled-components';
+    cria o componente em arquivo .js como o exemplo abaixo.
+    ex: export const ButtonContainer = styled.button ` CÓD_CSS_DO_BUTTON ` ;
+    
+}
